@@ -18,7 +18,7 @@ This is a simple web application that allows you to increment and decrement a co
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/counter-app.git`
+1. Clone the repository: `git clone https://github.com/AbhishekU19/Counter-App.git`
 2. Open `index.html` in your web browser.
 3. Click the "+" button to increment the counter.
 4. Click the "-" button to decrement the counter.
